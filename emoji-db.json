@@ -1,0 +1,1110 @@
+[
+  {
+    "id": "1",
+    "title": "Grinning Face",
+    "code": "😀",
+    "slug": "grinning-face",
+    "currentCldrName": "Grinning Face",
+    "codepointsHex": [
+      "U+1F600"
+    ],
+    "description": "<p>A yellow face with simple, open eyes and a broad, open smile, showing upper teeth and tongue on some platforms. Often conveys general pleasure and good cheer or humor.</p>\r\n\r\n<p>Not to be confused with <a href=\"/grinning-face-with-big-eyes/\">😃 Grinning Face With Big Eyes</a>&nbsp;or <a href=\"/grinning-face-with-smiling-eyes/\">😄 Grinning Face With Smiling Eyes</a>, which have the same smiles but more expressive eye shapes.&nbsp;</p>\r\n\r\n<p>This emoji has a cat variant, <a href=\"/grinning-cat/\">😺 Grinning Cat Face</a>.</p>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>",
+    "appleName": "Grinning Face",
+    "alsoKnownAs": [
+      "Happy Face",
+      "Smiley Face"
+    ],
+    "shortcodes": [
+      {
+        "code": ":grinning_face:",
+        "vendor": {
+          "slug": "shortcodes",
+          "title": "Emojipedia"
+        },
+        "source": "cldr"
+      },
+      {
+        "code": ":grinning:",
+        "vendor": {
+          "slug": "github",
+          "title": "GitHub"
+        },
+        "source": "github"
+      },
+      {
+        "code": ":grinning:",
+        "vendor": {
+          "slug": "slack",
+          "title": "Slack"
+        },
+        "source": "slack"
+      },
+      {
+        "code": ":grinning:",
+        "vendor": {
+          "slug": "discord",
+          "title": "Discord"
+        },
+        "source": "discord"
+      }
+    ],
+    "proposals": [
+      {
+        "name": "L2/10-142",
+        "url": "https://www.unicode.org/cgi-bin/GetDocumentLink?L2/10-142"
+      }
+    ],
+    "type": "SINGLE",
+    "socialImage": {
+      "source": "social/emoji/grinning-face.png"
+    },
+    "emojiVersion": {
+      "name": "1.0",
+      "date": 1438646400,
+      "slug": "emoji-1.0",
+      "status": 0
+    },
+    "version": {
+      "name": "6.1",
+      "slug": "unicode-6.1",
+      "date": 1327968000,
+      "description": "<p>A small update to the much larger Unicode 6.0. Unicode 6.1 included 13 new emoji characters.</p>",
+      "status": 0
+    },
+    "components": [
+      {
+        "id": "1",
+        "title": "Grinning Face",
+        "code": "😀",
+        "slug": "grinning-face",
+        "currentCldrName": "Grinning Face",
+        "codepointsHex": [
+          "U+1F600"
+        ],
+        "description": "<p>A yellow face with simple, open eyes and a broad, open smile, showing upper teeth and tongue on some platforms. Often conveys general pleasure and good cheer or humor.</p>\r\n\r\n<p>Not to be confused with <a href=\"/grinning-face-with-big-eyes/\">😃 Grinning Face With Big Eyes</a>&nbsp;or <a href=\"/grinning-face-with-smiling-eyes/\">😄 Grinning Face With Smiling Eyes</a>, which have the same smiles but more expressive eye shapes.&nbsp;</p>\r\n\r\n<p>This emoji has a cat variant, <a href=\"/grinning-cat/\">😺 Grinning Cat Face</a>.</p>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>",
+        "appleName": "Grinning Face",
+        "alsoKnownAs": [
+          "Happy Face",
+          "Smiley Face"
+        ],
+        "shortcodes": [
+          {
+            "code": ":grinning_face:",
+            "vendor": {
+              "slug": "shortcodes",
+              "title": "Emojipedia"
+            }
+          },
+          {
+            "code": ":grinning:",
+            "vendor": {
+              "slug": "github",
+              "title": "GitHub"
+            }
+          },
+          {
+            "code": ":grinning:",
+            "vendor": {
+              "slug": "slack",
+              "title": "Slack"
+            }
+          },
+          {
+            "code": ":grinning:",
+            "vendor": {
+              "slug": "discord",
+              "title": "Discord"
+            }
+          }
+        ],
+        "proposals": [
+          {
+            "name": "L2/10-142",
+            "url": "https://www.unicode.org/cgi-bin/GetDocumentLink?L2/10-142"
+          }
+        ]
+      }
+    ],
+    "goesGreatWith": [
+      {
+        "title": "Smiling Face with Open Mouth",
+        "slug": "grinning-face-with-big-eyes",
+        "code": "😃",
+        "currentCldrName": "Grinning Face with Big Eyes",
+        "description": "<p>A yellow face with smiling eyes and a broad, open smile, showing upper teeth and tongue on some platforms. Often conveys general happiness and good-natured amusement.</p>\r\n\r\n<p>Similar to <a href=\"/grinning-face/\">😀 Grinning Face</a>&nbsp;but&nbsp;with taller, more excited eyes.&nbsp;</p>"
+      },
+      {
+        "title": "Smiling Face with Open Mouth and Smiling Eyes",
+        "slug": "grinning-face-with-smiling-eyes",
+        "code": "😄",
+        "currentCldrName": "Grinning Face with Smiling Eyes",
+        "description": "<p>A yellow face with smiling eyes and a broad, open smile, showing upper teeth and tongue on some platforms. Often conveys general happiness and good-natured amusement.</p>\r\n\r\n<p>Similar to&nbsp;<a href=\"/grinning-face/\">😀 Grinning Face</a> and <a href=\"/grinning-face-with-big-eyes/\">😃&nbsp;Grinning Face With Big Eyes</a>, but with warmer, less excited eyes.</p>\r\n\r\n<p>This emoji has a cat variant, <a href=\"/grinning-cat-with-smiling-eyes/\">😸&nbsp;Grinning Cat Face With Smiling Eyes</a>.</p>"
+      },
+      {
+        "title": "Grinning Face with Smiling Eyes",
+        "slug": "beaming-face-with-smiling-eyes",
+        "code": "😁",
+        "currentCldrName": "Beaming Face with Smiling Eyes",
+        "description": "<p>A yellow face with smiling eyes and full-toothed grin, as if saying <em>Cheese!</em>&nbsp;for the camera.&nbsp;Teeth may be smoothed-over or crosshatched. Often expresses a radiant, gratified happiness. Tone varies, including warm, silly, amused, or proud.</p>\r\n\r\n<p><a href=\"/apple/ios-6.0/grinning-face-with-smiling-eyes/\">Prior to 2017</a>, Apple&#39;s design resembled its&nbsp;<a href=\"/grimacing-face/\">😬 Grimacing Face</a>.</p>"
+      },
+      {
+        "title": "Smiling Face with Open Mouth and Cold Sweat",
+        "slug": "grinning-face-with-sweat",
+        "code": "😅",
+        "currentCldrName": "Grinning Face with Sweat",
+        "description": "<p>Has the same grin and eyes as&nbsp;<a href=\"/grinning-face-with-smiling-eyes/\">😄 Grinning Face With Smiling Eyes</a>&nbsp;but with a single, blue bead of sweat, usually over its left eye. Intended to depict nerves or discomfort but commonly used to express a close call, as if saying <em>Whew!</em> and wiping sweat from the forehead.&nbsp;</p>"
+      },
+      {
+        "title": "Face with Tears of Joy",
+        "slug": "face-with-tears-of-joy",
+        "code": "😂",
+        "currentCldrName": "Face with Tears of Joy",
+        "description": "<p>A yellow face with a big&nbsp;grin, uplifted eyebrows, and smiling eyes, each shedding a tear from laughing so hard. Widely used to show something is funny or pleasing.&nbsp;</p>\r\n\r\n<p>Named the Oxford Dictionaries 2015 <a href=\"https://languages.oup.com/word-of-the-year/2015/\">Word of the Year</a>, and the most used emoji on all platforms <a href=\"https://blog.emojipedia.org/loudly-crying-becomes-top-tier-emoji/\">from 2011-2021</a>. Briefly <a href=\"https://blog.emojipedia.org/loudly-crying-becomes-top-tier-emoji/\">overtaken</a> as the top emoji on <a href=\"/twitter/\">Twitter</a> in 2021 by&nbsp;<a href=\"/loudly-crying-face/\">😭 Loudly Crying Face</a>, though as of January 2022 it has <a href=\"https://blog.emojipedia.org/tears-of-joy-just-about-returns-as-twitters-top-emoji/\">reclaimed its top position on the platform</a>.</p>\r\n\r\n<p>See also:&nbsp;<a href=\"/rolling-on-the-floor-laughing/\">🤣&nbsp;Rolling on the Floor Laughing</a>&nbsp;which expresses more intense laughter;&nbsp;or cat&nbsp;variant:&nbsp;<a href=\"/cat-with-tears-of-joy/\">😹&nbsp;Cat Face With Tears of Joy</a>.</p>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>"
+      },
+      {
+        "title": "Smiling Face with Smiling Eyes",
+        "slug": "smiling-face-with-smiling-eyes",
+        "code": "😊",
+        "currentCldrName": "Smiling Face with Smiling Eyes",
+        "description": "<p>A yellow face with smiling eyes and a broad, closed smile turning up to rosy cheeks. Often expresses genuine happiness and warm, positive feelings.</p>\r\n\r\n<p>An emoji form of the ^^ emoticon.</p>\r\n\r\n<p>On&nbsp;<a href=\"/snapchat/\">Snapchat</a>, this emoji next to a contact denotes that you message that&nbsp;person often but they aren&#39;t your&nbsp;<em>#1 Best Friend</em>.</p>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>"
+      },
+      {
+        "title": "Grinning Face with Star Eyes",
+        "slug": "star-struck",
+        "code": "🤩",
+        "currentCldrName": "Star-Struck",
+        "description": "<p>A yellow face with a broad, open smile, showing upper teeth on most platforms, with stars for eyes, as if seeing a beloved celebrity. Color of stars widely varies by platform, though commonly gold or red. May express that someone or something is amazing, fascinating, impressive, or exciting.</p>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>"
+      },
+      {
+        "title": "White Smiling Face",
+        "slug": "smiling-face",
+        "code": "☺️",
+        "currentCldrName": "Smiling Face",
+        "description": "<p>A classic smiley.&nbsp;A yellow face with a modest smile, rosy cheeks, and soft, closed eyes. Many platforms, including Apple, feature relaxed eyebrows. Conveys a wide range of warm, positive feelings, including love, happiness, and gratitude.</p>\r\n\r\n<p>Similar to <a href=\"/smiling-face-with-smiling-eyes/\">😊&nbsp;Smiling Face With Smiling Eyes,</a> which has a broader smile, no eyebrows, and smiling eyes.</p>\r\n\r\n<p>This smiley predates Unicode emoji support. In its Unicode name of <em>White Smiling Face</em>, <em>white</em>&nbsp;does <u>not</u> refer to skin tone or ethnicity.&nbsp;See the glossary for the&nbsp;term&nbsp;<em><a href=\"/glossary/#white\" title=\"📖 Glossary\">white</a></em>&nbsp;in Unicode character names.</p>"
+      },
+      {
+        "title": "Smiling Face with Tear",
+        "slug": "smiling-face-with-tear",
+        "code": "🥲",
+        "currentCldrName": "Smiling Face with Tear",
+        "description": "<p>A yellow face with open eyes, a thin closed-mouth smile, and a single tear falling from one of its eyes. Can be used to express a wide range of emotions and expressions&nbsp;including gratitude, tender happiness, an attempt to look happy when actually sad, or&nbsp;smiling through pain. Can also be a response to something that is bittersweet.</p>\r\n\r\n<p>This emoji and <a href=\"/slightly-smiling-face/\">🙂 Slightly Smiling Face</a> have a similar smile, and <a href=\"/crying-face/\">😢 Crying Face</a> and <a href=\"/crying-cat/\">😿 Crying Cat</a> have a similar lone tear. Not to be confused with&nbsp;<a href=\"/face-with-tears-of-joy/\">😂 Face with Tears of Joy</a>, which has a wide toothy grin&nbsp;and tears coming from both eyes.</p>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>\r\n\r\n<div id=\"professor_prebid-root\">&nbsp;</div>"
+      },
+      {
+        "title": "Face with Cowboy Hat",
+        "slug": "cowboy-hat-face",
+        "code": "🤠",
+        "currentCldrName": "Cowboy Hat Face",
+        "description": "<p>Yee-haw! A yellow smiley wearing a wide-brimmed, brown-leather cowboy hat. Its smile varies across platforms.&nbsp;May convey a sense of exuberance, whimsy, confidence, adventure, or other sentiments.</p>\r\n\r\n<p>Several vendors, including Apple, feature&nbsp;the same expression as their <a href=\"/grinning-face-with-big-eyes/\">😃 Grinning Face With Big Eyes</a>.</p>"
+      },
+      {
+        "title": "Smiling Cat Face with Open Mouth",
+        "slug": "grinning-cat",
+        "code": "😺",
+        "currentCldrName": "Grinning Cat",
+        "description": "<p>A cartoon cat variant of <a href=\"/grinning-face/\">😀 Grinning Face</a>. Depicted as yellow on major platforms.</p>"
+      },
+      {
+        "title": "Grinning Cat Face with Smiling Eyes",
+        "slug": "grinning-cat-with-smiling-eyes",
+        "code": "😸",
+        "currentCldrName": "Grinning Cat with Smiling Eyes",
+        "description": "<p>A cartoon cat variant of <a href=\"/grinning-face-with-smiling-eyes/\">😄 Grinning Face With Smiling Eyes</a>. Depicted as yellow on major platforms.</p>"
+      },
+      {
+        "title": "Sun with Face",
+        "slug": "sun-with-face",
+        "code": "🌞",
+        "currentCldrName": "Sun with Face",
+        "description": "<p>A sun with a smiling face, as a <a href=\"https://en.wikipedia.org/wiki/Sun_of_May\">Sun of May</a>. Generally depicted as a golden-yellow disc with a smiling, often human face with a nose, radiating triangular&nbsp;rays, representing the sun&#39;s heat and light.</p>\r\n\r\n<p>May be used to represent the sun more generally. Also used to represent sunny, warm, or hot weather and various positive and happy (<em>sunny</em>) feelings.</p>\r\n\r\n<p>See also <a href=\"/sun/\">☀️&nbsp;Sun</a>. Not to be confused with <a href=\"/bright-button/\">🔆&nbsp;Bright Button</a> or <a href=\"/dim-button/\">🔅&nbsp;Dim&nbsp;Button</a>.</p>\r\n\r\n<p>Apple, WhatsApp, and Facebook&#39;s suns feature human faces. Other platforms, including Twitter, feature a simple smiley, as <a href=\"/slightly-smiling-face/\">🙂&nbsp;Slightly Smiling Face</a>.</p>\r\n\r\n<p>Microsoft&#39;s eyes <a href=\"/microsoft/windows-10-anniversary-update/sun-with-face/\">previously</a> appeared open, though they were also closed in the platform&#39;s <a href=\"/microsoft/windows-8.0/sun-with-face/\">early designs</a>.&nbsp;<a href=\"/facebook/2.0/sun-with-face/\">Facebook&#39;s</a> expression previously resembled <a href=\"/grinning-face-with-smiling-eyes/\">😁&nbsp;Beaming Face With Smiling Eyes</a>.</p>"
+      },
+      {
+        "title": "Happy",
+        "slug": "happy",
+        "titleEmoji": {
+          "code": "😄",
+          "title": "Smiling Face with Open Mouth and Smiling Eyes",
+          "currentCldrName": "Grinning Face with Smiling Eyes",
+          "description": "<p>A yellow face with smiling eyes and a broad, open smile, showing upper teeth and tongue on some platforms. Often conveys general happiness and good-natured amusement.</p>\r\n\r\n<p>Similar to&nbsp;<a href=\"/grinning-face/\">😀 Grinning Face</a> and <a href=\"/grinning-face-with-big-eyes/\">😃&nbsp;Grinning Face With Big Eyes</a>, but with warmer, less excited eyes.</p>\r\n\r\n<p>This emoji has a cat variant, <a href=\"/grinning-cat-with-smiling-eyes/\">😸&nbsp;Grinning Cat Face With Smiling Eyes</a>.</p>",
+          "slug": "grinning-face-with-smiling-eyes"
+        }
+      }
+    ],
+    "genderVariants": [],
+    "skinToneVariants": [],
+    "vendorsAndPlatforms": [
+      {
+        "slug": "apple",
+        "title": "Apple",
+        "description": "<p>Used by Apple devices (iPhone, iPad, Mac) whenever emojis are displayed. Also used by Telegram messenger.</p>",
+        "items": [
+          {
+            "date": 1709596800,
+            "slug": "ios-17.4",
+            "title": "iOS 17.4",
+            "image": {
+              "source": "source/apple/391/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1481500800,
+            "slug": "ios-10.2",
+            "title": "iOS 10.2",
+            "image": {
+              "source": "source/apple/81/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1473724800,
+            "slug": "ios-10.0",
+            "title": "iOS 10.0",
+            "image": {
+              "source": "source/apple/76/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1428451200,
+            "slug": "ios-8.3",
+            "title": "iOS 8.3",
+            "image": {
+              "source": "source/apple/51/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1348012800,
+            "slug": "ios-6.0",
+            "title": "iOS 6.0",
+            "image": {
+              "source": "source/apple/21/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      },
+      {
+        "slug": "google",
+        "title": "Google Noto Color Emoji",
+        "description": "<p>Default emoji set for Android devices created by Google and used on devices by Google, Xiaomi, Oppo, Huawei, Sony, and many others.</p>",
+        "items": [
+          {
+            "date": 1725926400,
+            "slug": "16.0",
+            "title": "16.0",
+            "image": {
+              "source": "source/google/412/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1596412800,
+            "slug": "android-11.0",
+            "title": "Android 11.0",
+            "image": {
+              "source": "source/google/263/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1503273600,
+            "slug": "android-8.0",
+            "title": "Android 8.0",
+            "image": {
+              "source": "source/google/110/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1471824000,
+            "slug": "android-7.0",
+            "title": "Android 7.0",
+            "image": {
+              "source": "source/google/56/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1414972800,
+            "slug": "android-5.0",
+            "title": "Android 5.0",
+            "image": {
+              "source": "source/google/3/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1383177600,
+            "slug": "android-4.4",
+            "title": "Android 4.4",
+            "image": {
+              "source": "source/google/6/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      },
+      {
+        "slug": "animated-noto-color-emoji",
+        "title": "Noto Color Emoji, Animated",
+        "description": "<p>Animated versions of Google&rsquo;s Noto Color Emoji designs, used by Google Messenger.</p>",
+        "items": [
+          {
+            "date": 1682985600,
+            "slug": "15.0",
+            "title": "15.0",
+            "image": {
+              "source": "source/animated-noto-color-emoji/356/grinning-face_1f600.gif",
+              "description": "",
+              "useOriginalImage": true
+            }
+          }
+        ]
+      },
+      {
+        "slug": "samsung",
+        "title": "Samsung",
+        "description": "<p>Custom emoji set used on Samsung phones and tablets.</p>",
+        "items": [
+          {
+            "date": 1720569600,
+            "slug": "one-ui-6.1.1",
+            "title": "One UI 6.1.1",
+            "image": {
+              "source": "source/samsung/405/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1698624000,
+            "slug": "one-ui-6.0",
+            "title": "One UI 6.0",
+            "image": {
+              "source": "source/samsung/380/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1518393600,
+            "slug": "experience-9.0",
+            "title": "Experience 9.0",
+            "image": {
+              "source": "source/samsung/128/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1474502400,
+            "slug": "touchwiz-7.1",
+            "title": "TouchWiz 7.1",
+            "image": {
+              "source": "source/samsung/78/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1471564800,
+            "slug": "touchwiz-7.0",
+            "title": "TouchWiz 7.0",
+            "image": {
+              "source": "source/samsung/75/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1367020800,
+            "slug": "touchwiz-2.0",
+            "title": "TouchWiz Nature UX 2",
+            "image": {
+              "source": "source/samsung/45/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      },
+      {
+        "slug": "microsoft-3D-fluent",
+        "title": "Microsoft 3D Fluent",
+        "description": "<p>Glossy,&nbsp;gradient-heavy versions of the Microsoft emoji set. Used within select platforms such as Word and PowerPoint within the Windows 11 23H2 update.</p>",
+        "items": [
+          {
+            "date": 1719273600,
+            "slug": "fluent-15.1",
+            "title": "15.1",
+            "image": {
+              "source": "source/microsoft-3D-fluent/406/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      },
+      {
+        "slug": "microsoft-teams",
+        "title": "Microsoft Teams (3D Animated)",
+        "description": "<p>3D animated versions of Microsoft&rsquo;s Fluent emoji set, used Microsoft Teams for PC and Android.</p>",
+        "items": [
+          {
+            "date": 1680480000,
+            "slug": "15.0",
+            "title": "15.0",
+            "image": {
+              "source": "source/microsoft-teams/363/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": true
+            }
+          }
+        ]
+      },
+      {
+        "slug": "microsoft",
+        "title": "Microsoft",
+        "description": "<p>Used across Microsoft PCs. Windows 11 uses the Fluent set. Windows 10&rsquo;s final update was in May 2019.</p>",
+        "items": [
+          {
+            "date": 1719273600,
+            "slug": "windows-11-23h2-june-2024-update",
+            "title": "Windows 11 23H2 June 2024 Update",
+            "image": {
+              "source": "source/microsoft/407/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1698710400,
+            "slug": "windows-11-23H2",
+            "title": "Windows 11 23H2",
+            "image": {
+              "source": "source/microsoft/378/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1637539200,
+            "slug": "windows-11-november-2021-update",
+            "title": "Windows 11 November 2021 Update",
+            "image": {
+              "source": "source/microsoft/310/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1558396800,
+            "slug": "windows-10-may-2019-update",
+            "title": "Windows 10 May 2019 Update",
+            "image": {
+              "source": "source/microsoft/209/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1470096000,
+            "slug": "windows-10-anniversary-update",
+            "title": "Windows 10 Anniversary Update",
+            "image": {
+              "source": "source/microsoft/74/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1438128000,
+            "slug": "windows-10",
+            "title": "Windows 10",
+            "image": {
+              "source": "source/microsoft/54/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1381968000,
+            "slug": "windows-8.1",
+            "title": "Windows 8.1",
+            "image": {
+              "source": "source/microsoft/17/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1351209600,
+            "slug": "windows-8.0",
+            "title": "Windows 8.0",
+            "image": {
+              "source": "source/microsoft/58/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      },
+      {
+        "slug": "whatsapp",
+        "title": "WhatsApp",
+        "description": "<p>Used on WhatsApp for Android and PC. WhatsApp on iOS/MacOS uses Apple designs.</p>",
+        "items": [
+          {
+            "date": 1737417600,
+            "slug": "2.25.1.75",
+            "title": "2.25.1.75",
+            "image": {
+              "source": "source/whatsapp/417/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1547510400,
+            "slug": "2.19.7",
+            "title": "2.19.7",
+            "image": {
+              "source": "source/whatsapp/160/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1508716800,
+            "slug": "2.17",
+            "title": "2.17",
+            "image": {
+              "source": "source/whatsapp/116/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      },
+      {
+        "slug": "twitter",
+        "title": "Twitter / X",
+        "description": "<p>Used on Twitter / X for PC. Also used by Discord, Roblox, and Mastodon. Twitter / X&nbsp;on iOS/MacOS uses Apple designs. Android devices use native emoji design as of early 2023.</p>\r\n\r\n<p>&nbsp;</p>",
+        "items": [
+          {
+            "date": 1723593600,
+            "slug": "twemoji-15.0.3",
+            "title": "Twemoji 15.0.3",
+            "image": {
+              "source": "source/twitter/408/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1415232000,
+            "slug": "twemoji-1.0",
+            "title": "Twemoji 1.0",
+            "image": {
+              "source": "source/twitter/31/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      },
+      {
+        "slug": "facebook",
+        "title": "Facebook",
+        "description": "<p>Used on Facebook for Android and PC. Not used across Meta&rsquo;s WhatsApp and Instagram platforms. Facebook on iOS/MacOS uses Apple designs.</p>",
+        "items": [
+          {
+            "date": 1677456000,
+            "slug": "15.0",
+            "title": "15.0",
+            "image": {
+              "source": "source/facebook/355/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1565740800,
+            "slug": "4.0",
+            "title": "4.0",
+            "image": {
+              "source": "source/facebook/230/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1543795200,
+            "slug": "3.0",
+            "title": "3.0",
+            "image": {
+              "source": "source/facebook/158/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1487635200,
+            "slug": "2.0",
+            "title": "2.0",
+            "image": {
+              "source": "source/facebook/92/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      },
+      {
+        "slug": "huawei",
+        "title": "Huawei",
+        "description": "<p>Custom emoji set used on select Huawei&nbsp;phones and tablets.</p>",
+        "items": [
+          {
+            "date": 1691107200,
+            "slug": "harmony-os-4.0",
+            "title": "HarmonyOS 4.0",
+            "image": {
+              "source": "source/huawei/375/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      },
+      {
+        "slug": "joypixels",
+        "title": "JoyPixels",
+        "description": "<p>A licensable emoji design set. Previously named EmojiOne.</p>\r\n\r\n<p>&nbsp;</p>",
+        "items": [
+          {
+            "date": 1721174400,
+            "slug": "9.0",
+            "title": "9.0",
+            "image": {
+              "source": "source/joypixels/394/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1625702400,
+            "slug": "6.6",
+            "title": "6.6",
+            "image": {
+              "source": "source/joypixels/291/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1592870400,
+            "slug": "6.0",
+            "title": "6.0",
+            "image": {
+              "source": "source/joypixels/257/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1580256000,
+            "slug": "5.5",
+            "title": "5.5",
+            "image": {
+              "source": "source/joypixels/239/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1560988800,
+            "slug": "5.0",
+            "title": "5.0",
+            "image": {
+              "source": "source/emojione/211/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1534809600,
+            "slug": "4.0",
+            "title": "4.0",
+            "image": {
+              "source": "source/emojione/151/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1498780800,
+            "slug": "3.1",
+            "title": "3.1",
+            "image": {
+              "source": "source/emoji-one/104/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1492646400,
+            "slug": "3.0",
+            "title": "3.0",
+            "image": {
+              "source": "source/emoji-one/98/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1464652800,
+            "slug": "2.2",
+            "title": "2.2",
+            "image": {
+              "source": "source/emoji-one/64/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1450310400,
+            "slug": "2.0",
+            "title": "2.0",
+            "image": {
+              "source": "source/emoji-one/44/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1409529600,
+            "slug": "1.0",
+            "title": "1.0",
+            "image": {
+              "source": "source/emoji-one/5/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      },
+      {
+        "slug": "lg",
+        "title": "LG",
+        "description": "<p>Custom emoji set used on LG devices. Discontinued between 2017 and 2020, replaced by Noto Color Emoji, but then revived in 2021 for LG&rsquo;s final mobile device.</p>",
+        "items": [
+          {
+            "date": 1611964800,
+            "slug": "velvet",
+            "title": "Velvet",
+            "image": {
+              "source": "source/lg/307/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1402876800,
+            "slug": "g3",
+            "title": "G3",
+            "image": {
+              "source": "source/lg/34/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      },
+      {
+        "slug": "telegram",
+        "title": "Telegram",
+        "description": "<p>Animated versions of Apple&rsquo;s emoji set, custom-built by the Telegram message platform.</p>",
+        "items": [
+          {
+            "date": 1699920000,
+            "slug": "telemoji-november-2023",
+            "title": "Telemoji (November 2023)",
+            "image": {
+              "source": "source/telegram/386/grinning-face_1f600.webp",
+              "description": "",
+              "useOriginalImage": true
+            }
+          }
+        ]
+      },
+      {
+        "slug": "skype",
+        "title": "Skype",
+        "description": "<p>Animated emoji-adjacent designs used by the Skype platform.</p>",
+        "items": [
+          {
+            "date": 1433116800,
+            "slug": "1.2",
+            "title": "Emoticons 1.2",
+            "image": {
+              "source": "source/skype/289/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": true
+            }
+          }
+        ]
+      },
+      {
+        "slug": "twitter-emoji-stickers",
+        "title": "Twitter Emoji Stickers",
+        "description": "<p>Highly-detailed emoji set used by Twitter&rsquo;s Statuses feature and within the tweet image editor on Android devices.</p>",
+        "items": [
+          {
+            "date": 1664755200,
+            "slug": "13.1",
+            "title": "13.1",
+            "image": {
+              "source": "source/twitter/348/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      },
+      {
+        "slug": "serenityos",
+        "title": "SerenityOS",
+        "description": "<p>Custom emoji set used on the open-source SerenityOS.</p>",
+        "items": [
+          {
+            "date": 1706659200,
+            "slug": "2024-01-31",
+            "title": "2024-01-31",
+            "image": {
+              "source": "source/serenityos/392/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      },
+      {
+        "slug": "toss-face",
+        "title": "Toss Face (토스페이스)",
+        "description": "<p>A custom emoji design set used by Korean fintech platform Toss.</p>",
+        "items": [
+          {
+            "date": 1695081600,
+            "slug": "1.6",
+            "title": "1.6",
+            "image": {
+              "source": "source/toss-face/381/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1646006400,
+            "slug": "february-2022",
+            "title": "February 2022",
+            "image": {
+              "source": "source/toss-face/330/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      },
+      {
+        "slug": "sony",
+        "title": "Sony Playstation",
+        "description": "<p>Used on PlayStation 5 and PlayStation 4 within the device&rsquo;s messaging functionality.</p>",
+        "items": [
+          {
+            "date": 1619827200,
+            "slug": "13.1",
+            "title": "13.1",
+            "image": {
+              "source": "source/sony/336/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      },
+      {
+        "slug": "noto-emoji",
+        "title": "Noto Emoji Font",
+        "description": "<p>A minimalist, monochrome version of Google&rsquo;s Noto Color Emoji designs.</p>",
+        "items": [
+          {
+            "date": 1725926400,
+            "slug": "16.0",
+            "title": "16.0",
+            "image": {
+              "source": "source/noto-emoji/410/grinning-face_1f600.jpg",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      },
+      {
+        "slug": "openmoji",
+        "title": "OpenMoji",
+        "description": "<p>A open-source emoji design set by the HfG Schw&auml;bisch Gm&uuml;nd (Design University) in Germany.</p>",
+        "items": [
+          {
+            "date": 1734393600,
+            "slug": "15.1",
+            "title": "15.1",
+            "image": {
+              "source": "source/openmoji/413/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1584403200,
+            "slug": "12.2",
+            "title": "12.2",
+            "image": {
+              "source": "source/openmoji/242/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1522627200,
+            "slug": "1.0",
+            "title": "1.0",
+            "image": {
+              "source": "source/openmoji/212/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      },
+      {
+        "slug": "emojidex",
+        "title": "emojidex",
+        "description": "<p>An open-source emoji design set consisting of user-submitted emoji designs.</p>",
+        "items": [
+          {
+            "date": 1503360000,
+            "slug": "1.0.34",
+            "title": "1.0.34",
+            "image": {
+              "source": "source/emojidex/112/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1500249600,
+            "slug": "1.0.33",
+            "title": "1.0.33",
+            "image": {
+              "source": "source/emojidex/107/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1463356800,
+            "slug": "1.0.14",
+            "title": "1.0.14",
+            "image": {
+              "source": "source/emojidex/59/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      },
+      {
+        "slug": "messenger",
+        "title": "Messenger",
+        "description": "<p>Previously used by Facebook&rsquo;s Messenger platform. Discontinued in 2017, replaced by flagship Facebook emoji set.</p>",
+        "items": [
+          {
+            "date": 1464825600,
+            "slug": "1.0",
+            "title": "1.0",
+            "image": {
+              "source": "source/facebook/65/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      },
+      {
+        "slug": "htc",
+        "title": "HTC",
+        "description": "<p>Custom emoji set previously used on HTC devices. Discontinued in 2016, replaced by Noto Color Emoji.</p>",
+        "items": [
+          {
+            "date": 1460419200,
+            "slug": "sense-8",
+            "title": "Sense 8",
+            "image": {
+              "source": "source/htc/122/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          },
+          {
+            "date": 1427760000,
+            "slug": "sense-7",
+            "title": "Sense 7",
+            "image": {
+              "source": "source/htc/37/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      },
+      {
+        "slug": "mozilla",
+        "title": "Mozilla",
+        "description": "<p>Open-source emoji set designs for 2015&rsquo;s Firefox OS 2.5 update, but never implemented.</p>",
+        "items": [
+          {
+            "date": 1454198400,
+            "slug": "firefox-os-2.5",
+            "title": "Firefox OS 2.5",
+            "image": {
+              "source": "source/mozilla/36/grinning-face_1f600.png",
+              "description": "",
+              "useOriginalImage": false
+            }
+          }
+        ]
+      }
+    ],
+    "alerts": [],
+    "shopInfo": {
+      "url": "https://shop.emojipedia.org/collections/%F0%9F%98%80-grinning-face-emoji-collection-emojipedia-shop",
+      "image": "core/shopinfo/Emojipedia_Shop_Ad_Grinning_Face.jpg"
+    },
+    "mashup": {
+      "supported": true
+    }
+  }
+]
